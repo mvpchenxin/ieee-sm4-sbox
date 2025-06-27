@@ -1,4 +1,4 @@
-// Circuit_depth
+// Circuit_improved
 // Aug 05, 24
 
 const int MaxCircuitSize = 1000;
