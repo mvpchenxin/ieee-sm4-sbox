@@ -1,5 +1,5 @@
 # SM4 SBOX
-This is a verilog implementation of SM4 S-box based on the paper of The compact logic design of SM4 S-box in hardware based on asymmetric matrix expansion and sub-module series connection
+This is a verilog implementation of High-Performance SM4 S-Box Design Based on Linear Matrix Extension and Nonlinear Modules Series-Connection
 
 - sbox.v is the verilog code provided in this paper;
 - sbox_ref.v is a reference.
